@@ -1,0 +1,13 @@
+D:\Visual Studio\Server-Cleint2\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Visual Studio\Server-Cleint2\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Visual Studio\Server-Cleint2\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Visual Studio\Server-Cleint2\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Visual Studio\Server-Cleint2\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Visual Studio\Server-Cleint2\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Visual Studio\Server-Cleint2\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
